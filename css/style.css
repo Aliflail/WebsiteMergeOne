@@ -369,6 +369,8 @@ section.our-portfolio p.text-center {
 	line-height:25px;
 	padding-bottom:70px;
 	color:black;
+	padding-right: 90px;
+	padding-left: 90px;
 }
 /*-- /portfolio section --*/
 /*-- team section --*/
@@ -1411,5 +1413,37 @@ body { /* For full width image-container */
 	-moz-background-size: cover;
 	
 }
-
+.stretch-imgspice{
+	height: 150px;
+	background: url(../images/spices.jpg) no-repeat ;
+	 background-size: cover;	
+	-webkit-background-size: cover;	
+	-moz-background-size: cover;
+	-o-background-size: cover;		
+	-moz-background-size: cover;
+	
+}
+.stretch-solar{
+	height: 150px;
+	background: url(../images/banner3.jpg) no-repeat ;
+	 background-size: cover;	
+	-webkit-background-size: cover;	
+	-moz-background-size: cover;
+	-o-background-size: cover;		
+	-moz-background-size: cover;
+background-attachment:fixed;
+background-position: center; 
+}
 /*stretch-image*/
+.solar-img{
+	height: 400px;
+	background: url(../images/solarpanel.jpg) no-repeat ;
+	background-size: cover;
+	background-attachment:fixed;
+	background-position: center; 
+	-webkit-background-size: cover;	
+	-moz-background-size: cover;
+	-o-background-size: cover;		
+	-moz-background-size: cover;
+
+}
